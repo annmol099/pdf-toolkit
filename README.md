@@ -327,5 +327,4 @@ python pdf_toolkit.py
 
 ## Authors
 
-Name: _write your name here_
-Team members: _write team members' names here_
+Name: Anmol
