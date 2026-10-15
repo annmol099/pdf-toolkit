@@ -325,6 +325,6 @@ python pdf_toolkit.py
 
 ---
 
-## Authors
+## Author
 
 Name: Anmol
